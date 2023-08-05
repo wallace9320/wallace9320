@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wallace9320
 - 👀 I’m interested in Electronics, Robotics and Software Engineering.
 - 🌱 I’m currently learning Machine Learning.
-- 📖 I’m studying Engineering at University of Cambridge, with intent to specialize in Computer Engineering.
+- 📖 I’m studying Information and Computer Engineering at University of Cambridge.
 - 📫 How to reach me: chaksumleung@gmail.com
 
 <!---
